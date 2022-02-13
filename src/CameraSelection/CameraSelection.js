@@ -32,7 +32,7 @@ class CameraSelection extends Component {
         const { selectedPresetId } = this.props;
         return <div className="Camera-selection-container">
             <div className="Camera-selection-text">
-                Select camera to show:<br />
+                Select camera:<br />
                 <form>
                     <select onChange={this.selectionChanged} value={selectedPresetId}>
                         {
