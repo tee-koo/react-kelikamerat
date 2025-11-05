@@ -1,3 +1,3 @@
 # Kelikamerat - Basic React App
 
-Final Product: http://web-dev.byethost16.com/keli/
+Final Product: https://webdev-x8.netlify.app/keli/
